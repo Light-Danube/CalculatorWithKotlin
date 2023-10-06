@@ -1,6 +1,6 @@
-# Simple Android Calculator
+# EasyMath
 
-A basic calculator app for Android developed using Android Studio and Kotlin.
+A basic math quiz app for Android developed using Android Studio and Kotlin.
 
 ## Features
 
